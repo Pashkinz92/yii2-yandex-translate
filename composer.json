@@ -10,9 +10,7 @@
             "email": "pasha9@ukr.net"
         }
     ],
-    "require": {
-        "yiisoft/yii2": "*"
-    },
+
     "autoload": {
         "psr-4": {
             "pashkinz92\\yandex\\translate\\": ""
