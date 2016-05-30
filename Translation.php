@@ -89,7 +89,7 @@
         {
             // this is the form data to be included with the request
             $values = array(
-                'key'    => $this->_apiKey,
+                'key'    => $this->key,
                 'text' => $text,
                 'lang' => $lang,
                 'format' => 'plain',
