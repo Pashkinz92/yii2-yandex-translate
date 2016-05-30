@@ -29,7 +29,7 @@ Usage
     'components' => [
          ...
          'translate' => [
-             'class' => \pashkinz92\yii2-yandex-translate\Translation::className(),
+             'class' => '\pashkinz92\yii2-yandex-translate\Translation',
              'key' => 'yandexTranslateApiKey',
          ],
          ...
