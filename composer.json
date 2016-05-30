@@ -1,0 +1,21 @@
+{
+    "name": "pashkinz92/yii2-yandex-translate",
+    "description": "Translate content using YandexTranslateAPI",
+    "type": "library",
+    "keywords": ["yii2","extension"," yandex translate API"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pavlo",
+            "email": "pasha9@ukr.net"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "pashkinz92\\yandex\\translate": ""
+        }
+    }
+}
